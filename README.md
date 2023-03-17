@@ -36,5 +36,3 @@ To build a project into an executable file, use auto-py-to-exe
 2. Open builder ```auto-py-to-exe``` in new web tab
 3. In Settings section click "Import Config From JSON File" and choose ```pyinstaller-config.json``` from this repo
 4. In output folder put ```assets``` folder, so that the tool has something to work with
-
-
